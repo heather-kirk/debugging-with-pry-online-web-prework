@@ -2,4 +2,4 @@ def plus_two(num)
 num + 2
 end
 
-num= 5
+puts plus_two 
